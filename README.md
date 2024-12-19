@@ -1,6 +1,7 @@
 # QTL2-implementation
-A shallow implementation of Karl Broman's QTL2 R package for Quantative Trait Loci (QTL) analysis.
-QTL2 package available at https://github.com/kbroman/qtl2
+- A shallow implementation of Karl Broman's QTL2 R package for Quantative Trait Loci (QTL) analysis.
+- QTL2 package available at https://github.com/kbroman/qtl2
+- This script is intended for use with Mus Musculus; however, you could always just change the BioMart mart.
 
 ## The results
 - A PDF that shows QTL peaks by tested phenotype. Test alphas are set to .20 (yellow-green), .10 (orange) , and .05 (red) by default. 
