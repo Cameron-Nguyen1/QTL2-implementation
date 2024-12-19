@@ -1,5 +1,6 @@
 # QTL2-implementation
 A shallow implementation of Karl Broman's QTL2 R package for Quantative Trait Loci (QTL) analysis.
+QTL2 package available at https://github.com/kbroman/qtl2
 
 ## The results
 - A PDF that shows QTL peaks by tested phenotype.
