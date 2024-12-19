@@ -3,7 +3,7 @@ A shallow implementation of Karl Broman's QTL2 R package for Quantative Trait Lo
 QTL2 package available at https://github.com/kbroman/qtl2
 
 ## The results
-- A PDF that shows QTL peaks by tested phenotype.
+- A PDF that shows QTL peaks by tested phenotype. Test alphas are set to .20 (yellow-green), .10 (orange) , and .05 (red) by default. 
 - A CSV that is comprised of queried Ensembl data within significant QTL peaks.
 - A CSV that shows the numbers that form the basis of the QTL peaks graphed on PDF.
 
